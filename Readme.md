@@ -22,7 +22,7 @@ Team [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
 
 
 ##### Deploy On Heroku 
-<a href="https://youtu.be/OTqZmADyOjU"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/OTqZmADyOjU"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=https://github.com/DeezuzzaDz1988/Pro-Auto-Filter-Bot-V2.O)
 <a href="https://youtu.be/OTqZmADyOjU"><img src="https://img.shields.io/youtube/views/OTqZmADyOjU?style=social">
 
 ##### Deploy On Railway.app
